@@ -22,5 +22,5 @@ I have some basic knowledge about the fundamentals of programming (loops, variab
 
 > DAILY LOGS:
 
-1. [2021-2-25](/blob/main/daily-logs/2021-2-25.md)
+1. [2021-2-25](https://github.com/weijieyong/learn-python/blob/main/daily-logs/2021-2-25.md)
 
